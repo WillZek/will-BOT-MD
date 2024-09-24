@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877F2&height=120&section=header"/>
+
 ## 🌟 **`WILLZEK-OFC`**
 
 ![Menú Principal](https://f.uguu.se/drxoRbfm.jpg)
