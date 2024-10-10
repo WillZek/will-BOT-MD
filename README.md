@@ -2,7 +2,7 @@
 
 ## 🌟 **`WILLZEK-OFC`**
 
-![Menú Principal](https://f.uguu.se/drxoRbfm.jpg)
+![Menú Principal](https://qu.ax/NoDdH.jpg)
 
 
 ### CONTACTOS 👇💛
