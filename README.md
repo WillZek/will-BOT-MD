@@ -39,4 +39,6 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 <br><br>
 </a>
 
+> **MI PROYECTO✨**
+
 <a href="https://github.com/WillZek/CrowBot-ST">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot-ST&theme=purple)</a>
