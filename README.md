@@ -38,3 +38,5 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=will-BOT-MD&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="will-BOT-MD"/>
 <br><br>
 </a>
+
+<a href="https://github.com/WillZek/CrowBot-ST">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot&theme=purple)</a>
