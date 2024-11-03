@@ -1,6 +1,6 @@
 ## `Mi perfil`
 
-<a href="https://github.com/WillZek"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola+Soy+WillZek.+Creador+de+CrowBot.&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=zam._.bl&whatsapp=WillZek &pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/WillZek"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola+Soy+WillZek.+Creador+de+CrowBot.&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=zam._.bl&whatsapp=WillZek&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877F2&height=120&section=header"/>
 
