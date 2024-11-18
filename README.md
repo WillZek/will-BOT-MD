@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877F2&height=120&section=header"/>
+
 ### **`BIENVENIDOS A MI PERFIL`**
 
 > **Soy un Desarrollador Principiante de bots de WhatsAp 😁.**
@@ -6,8 +8,6 @@ ___
 
 <a 
 href="https://github.com/WillZek"><img src="https://cardivo.vercel.app/api?name=WillZek&description=Hola+Soy+WillZek.+Creador+de+CrowBot.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=pina_dzn&whatsapp=WillZek&pattern=leaf&colorPattern=%23eaeaea" /><a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877F2&height=120&section=header"/>
 
 ___
 
