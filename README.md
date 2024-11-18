@@ -35,7 +35,7 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 <div align="center">
 <a href="https://github.com/WillZek/">
 <img src="https://github-readme-stats.vercel.app/api?username=WillZek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=will-BOT-MD&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="WillZek"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillZek&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="WillZek"/>
 <br><br>
 </a>
 
