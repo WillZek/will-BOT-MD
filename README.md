@@ -1,9 +1,15 @@
 ### **`BIENVENIDOS A MI PERFIL`**
 
+> **Soy un Desarrollador Principiante de bots de WhatsAp 😁.**
+
+___
+
 <a 
 href="https://github.com/WillZek"><img src="https://cardivo.vercel.app/api?name=WillZek&description=Hola+Soy+WillZek.+Creador+de+CrowBot.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=pina_dzn&whatsapp=WillZek&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877F2&height=120&section=header"/>
+
+___
 
 ## 🌟 **`WILLZEK-OFC`**
 
@@ -29,6 +35,8 @@ src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&
 ## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Grupo" width="45" height="43"> Canal Oficial 💛
 
 <a href="https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d?text=.menu"><img alt="Canal Oficial 💛" src="https://img.shields.io/badge/Canal - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+___
 
 <h2 align="center"> 𝗘𝗦𝗧𝗔𝗗𝗜𝗦𝗧𝗜𝗖𝗔𝗦 </h2>
 </div>
