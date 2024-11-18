@@ -30,7 +30,7 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 
 <a href="https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d?text=.menu"><img alt="Canal Oficial 💛" src="https://img.shields.io/badge/Canal - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<h2 align="center"> ESTADÍSTICAS </h2>
+<h2 align="center"> **`ESTADÍSTICAS`** </h2>
 </div>
 <div align="center">
 <a href="https://github.com/will-BOT-MD/">
@@ -39,6 +39,6 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 <br><br>
 </a>
 
-> **MI PROYECTO✨**
+> **`MI PROYECTO✨`**
 
 <a href="https://github.com/WillZek/CrowBot-ST">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot-ST&theme=purple)</a>
