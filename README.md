@@ -30,12 +30,12 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 
 <a href="https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d?text=.menu"><img alt="Canal Oficial 💛" src="https://img.shields.io/badge/Canal - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<h2 align="center"> **`ESTADÍSTICAS`** </h2>
+<h2 align="center"> ESTADÍSTICAS </h2>
 </div>
 <div align="center">
-<a href="https://github.com/will-BOT-MD/">
-<img src="https://github-readme-stats.vercel.app/api?username=will-BOT-MD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=will-BOT-MD&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="will-BOT-MD"/>
+<a href="https://github.com/WillZek/">
+<img src="https://github-readme-stats.vercel.app/api?username=WillZek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=will-BOT-MD&show_icons=true&locale=es&layout=compact&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="WillZek"/>
 <br><br>
 </a>
 
