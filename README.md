@@ -42,4 +42,4 @@ src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&
 
 <a href="https://github.com/WillZek/CrowBot-ST">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot-ST&theme=purple)</a>
 
-> **`Powered By`** **`[WillZek](https://chat.whatsapp.com/F0MiFkIWaQtLrZez9Xt2uu)`**.
+> **`Powered By`** **[WillZek](https://chat.whatsapp.com/F0MiFkIWaQtLrZez9Xt2uu)**.
