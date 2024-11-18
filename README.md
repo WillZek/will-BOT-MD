@@ -13,9 +13,7 @@
 <p>
 
 <a
-href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
-
-<a
+href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a> <a
 href="ninopina10@gmail.com" target="Black"><img
 src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" /> 
 
