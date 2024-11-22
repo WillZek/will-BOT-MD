@@ -50,8 +50,12 @@ ___
 <br><br>
 </a>
 
-> **`MI PROYECTO✨`**
+> **`MIS PROYECTOS✨`**
 
 <a href="https://github.com/WillZek/CrowBot-ST">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot-ST&theme=purple)</a>
+
+<a href="https://github.com/WillZek/CrowBot-Ai">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WillZek&repo=CrowBot-Ai&theme=purple)</a>
+
+___
 
 > **`Powered By`** **[WillZek](https:wa.me/50557865603?text=hola+vengo+de+tu+perfil+de+github+🌠👑) 🌠👑**.
